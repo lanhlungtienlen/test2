@@ -10,10 +10,10 @@ LineXO is a classic fighting game with two players competing to invade the terri
 
 <div style="display:flex;">
 	<a href="https://play.google.com/store">
-    		<img height="40"vspace="50" src="Figures/google_play.png" />
+    		<img height="40" src="Figures/google_play.png" />
 	</a>
 	<a href="https://drive.google.com">
-    		<img height="40" vspace="50" src="Figures/google_drive.png"/>
+    		<img height="40" src="Figures/google_drive.png"/>
 	</a>
 </div>
 
