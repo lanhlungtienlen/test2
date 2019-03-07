@@ -8,12 +8,12 @@
 <img align="left" width="200" src="Figures/logo.png"/>
 LineXO is a classic fighting game with two players competing to invade the territory. The winner is the one who owns the most land. The application has seven usecases: (1) Login/Logout with Google, Facebook, Zalo. (2) Create a table and select a chess board pattern, which may allow to create a custom chessboard. (3) Play against two peoples. (4) Chat with each other while playing. (5) Follow the table and comment. (6) Rating application. (7) There may be advertising.<br/>
 
-<div style="display:flex;" vspace="50">
+<div style="display:flex;">
 	<a href="https://play.google.com/store">
-    		<img height="40" src="Figures/google_play.png" />
+    		<img height="40"vspace="50" src="Figures/google_play.png" />
 	</a>
 	<a href="https://drive.google.com">
-    		<img height="40" src="Figures/google_drive.png"/>
+    		<img height="40" vspace="50" src="Figures/google_drive.png"/>
 	</a>
 </div>
 
