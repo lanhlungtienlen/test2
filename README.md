@@ -5,35 +5,26 @@
 
 # LineXO
 
-<img src="Figures/logo.png" align="left" width="200">
-LineXO is a classic fighting game with two players competing to invade the territory. The winner is the one who owns the most land. The application has seven usecases: (1) Login/Logout with Google, Facebook, Zalo. (2) Create a table and select a chess board pattern, which may allow to create a custom chessboard.(3) Play against two peoples. (4) Chat with each other while playing. (5) Follow the table and comment. (6) Rating application. (7) There may be advertising.<br/>
+<img align="left" width="200" src="Figures/logo.png"/>
+LineXO is a classic fighting game with two players competing to invade the territory. The winner is the one who owns the most land. The application has seven usecases: (1) Login/Logout with Google, Facebook, Zalo. (2) Create a table and select a chess board pattern, which may allow to create a custom chessboard. (3) Play against two peoples. (4) Chat with each other while playing. (5) Follow the table and comment. (6) Rating application. (7) There may be advertising.<br/>
 
 <div style="display:flex;" >
-<a href="https://f-droid.org/app/org.horaapps.leafpic">
-    <img src="https://f-droid.org/badge/get-it-on.png"
-         alt="Get it on F-Droid" height="80">
-</a>
-<a href="https://play.google.com/store/apps/details?id=org.horaapps.leafpic">
-    <img alt="Get it on Google Play"
-        height="80"
-        src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" />
-</a>
+	<a href="https://play.google.com/store">
+    		<img height="80" src="Figures/google_play.png" />
+	</a>
+	<a href="https://drive.google.com">
+    		<img height="80" src="Figures/google_drive.png"/>
+	</a>
 </div>
 
-
-
 ## Screenshot
-
 <div style="display:flex;" >
 <img  src="Figures/logo.png" width="19%" >
 <img style="margin-left:10px;" src="Figures/logo.png" width="19%" >
 <img style="margin-left:10px;" src="Figures/logo.png" width="19%" >
 <img style="margin-left:10px;" src="Figures/logo.png" width="19%" >
 <img style="margin-left:10px;" src="Figures/logo.png" width="19%" >
-
 </div>
-
-
 
 ## Usage
 This project is used for academic research purposes in the Mobile application development course. Other purposes are not allowed unless approved by the authors.
