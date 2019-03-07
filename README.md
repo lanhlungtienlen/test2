@@ -5,8 +5,8 @@
 
 # LineXO
 
-<img src="Figures/1.png" align="left" width="200" hspace="10" vspace="10">
-LeafPic is a fluid, material-designed alternative gallery, it also is ad-free and open source under GPLv3 license. It doesn't miss any of the main features of a stock gallery, and we also have plans to add more useful features.<br/>
+<img src="Figures/1.png" align="left" width="200">
+LineXO is a classic fighting game with two players competing to invade the territory. The winner is the one who owns the most land. The application has seven usecases: (1) Login / Logout with Google, Facebook, Zalo. (2) Create a table and select a chess board pattern, which may allow you to create a new chessboard yourself. (3) Play against two people. (4) Chat with each other while playing. (5) Follow the table and comment. (6) Rating application. (7) May have ad insertion.<br/>
 
 <div style="display:flex;" >
 <a href="https://f-droid.org/app/org.horaapps.leafpic">
@@ -20,6 +20,10 @@ LeafPic is a fluid, material-designed alternative gallery, it also is ad-free an
 </a>
 </div>
 
+
+
+## Screenshot
+
 <div style="display:flex;" >
 <img  src="Figures/1.png" width="19%" >
 <img style="margin-left:10px;" src="Figures/1.png" width="19%" >
@@ -28,8 +32,6 @@ LeafPic is a fluid, material-designed alternative gallery, it also is ad-free an
 <img style="margin-left:10px;" src="Figures/1.png" width="19%" >
 
 </div>
-
-## Screenshot
 
 
 
