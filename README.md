@@ -6,11 +6,11 @@
 # LineXO
 
 <div style="display:flex;" >
-<img  src="screenshots/1.png" width="19%" >
-<img style="margin-left:10px;" src="screenshots/1.png" width="19%" >
-<img style="margin-left:10px;" src="screenshots/1.png" width="19%" >
-<img style="margin-left:10px;" src="screenshots/1.png" width="19%" >
-<img style="margin-left:10px;" src="screenshots/1.png" width="19%" >
+<img  src="Figures/1.png" width="19%" >
+<img style="margin-left:10px;" src="Figures/1.png" width="19%" >
+<img style="margin-left:10px;" src="Figures/1.png" width="19%" >
+<img style="margin-left:10px;" src="Figures/1.png" width="19%" >
+<img style="margin-left:10px;" src="Figures/1.png" width="19%" >
 
 </div>
 
